@@ -1,0 +1,57 @@
+* {
+    font-family: Helvetica, sans-serif;
+  }
+
+header {
+    height: 100px;
+    width: 100%;
+    background-image: url("../pattern.jpeg");
+}
+  h1 {
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    
+  }
+
+  span {
+    font-weight: bold;
+    color: blue;
+  }
+
+  #brushes {
+    background-color: mediumspringgreen;
+  }
+  .img-brushes {
+    background-image: url("../hacksaw.jpeg");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+  }
+
+  #frames {
+    background-color: lightcoral;
+  }
+  .img-frames {
+    background-image: url("../frames.jpeg");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+  }
+  #paint {
+    background-color: skyblue;
+  }
+.img-paint {
+    background-image: url("../finnish.jpeg");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+
+}
